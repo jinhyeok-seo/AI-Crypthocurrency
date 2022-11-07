@@ -1,0 +1,2 @@
+# AI-Crypthocurrency
+for assignment
